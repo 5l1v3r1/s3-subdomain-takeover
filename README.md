@@ -15,5 +15,6 @@ $ ./subdomain-takeover -d your-domain.com
 
 ![](demo.png)
 
-[takeover-proofs](https://0xpatrik.com/takeover-proofs/)
-[can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz)
+[Takeover proofs](https://0xpatrik.com/takeover-proofs/)
+
+[Reference](https://github.com/EdOverflow/can-i-take-over-xyz)
