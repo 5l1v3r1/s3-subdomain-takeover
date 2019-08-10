@@ -15,13 +15,13 @@ func main() {
 	
     config, _ := dns.ClientConfigFromFile("/etc/resolv.conf")
     c := new(dns.Client)
-	m := new(dns.Msg)
+    m := new(dns.Msg)
 
 	// Your target
 
-	var domain string
+    var domain string
     flag.StringVar(&domain, "d", "s3.shopify.com", "target.com.br")
-	flag.Parse()
+    flag.Parse()
 	
 	// Find CNAME
 	
