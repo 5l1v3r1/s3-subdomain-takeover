@@ -2,8 +2,8 @@ package main
  
 import (
 	"fmt"
-    "io/ioutil"
-    "net/http"
+        "io/ioutil"
+        "net/http"
 	"github.com/miekg/dns" 
 	"regexp"
 	"flag"
